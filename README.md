@@ -17,9 +17,8 @@ This repository demonstrates key skills in:
 * **Data Handling:** (Implied) Collecting, labeling (using tools like LabelImg), and training with custom datasets.
 * **Practical Application:** Building a system with potential real-world impact (e.g., driver safety).
 
-**(Optional: Add a GIF/Screenshot here showing the detection in action!)**
-![Demo GIF Placeholder](link_to_your_demo_gif_or_screenshot.gif)
-
+**(Screenshot showing the detection in action!)**
+![Image](https://github.com/user-attachments/assets/4be6e2fb-7842-4e82-9b14-6efe792bd6b1)
 ---
 
 ## Features
